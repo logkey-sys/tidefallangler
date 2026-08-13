@@ -1,0 +1,23 @@
+{
+  "name": "Tidefall Angler",
+  "short_name": "Tidefall Angler",
+  "description": "Cast your line. Wait for the bite. Feel the reel. A relaxing 3D fishing simulation.",
+  "start_url": "https://tidefallangler.fun/",
+  "scope": "https://tidefallangler.fun/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071a2e",
+  "theme_color": "#071a2e",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
